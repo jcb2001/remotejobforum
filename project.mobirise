@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "youtube-gaming-job.html",
+    "currentPage": "customer-chat-support-no-experience.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 35,
+    "uniqCompNum": 41,
     "versionPublish": "5.6.11",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/copy-of-matrix-1-modified-128x128.png",
@@ -1064,7 +1064,7 @@
       "settings": {
         "title": "Remote Live Chat Assistant Jobs",
         "meta_descr": "We are currently hiring new live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts. These are remote positions, meaning that you can do the work online from anywhere in the world.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Live Chat Assistants - Hiring Now!\",\n  \"description\": \"<p>$25 - $35 per hour | Online/Remote Position | Flexible</p><br><p>We are currently hiring new live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts. These are remote positions, meaning that you can do the work online from anywhere in the world. You can read full details of the job (and apply) below:</p><br><p>What you will be doing: As a live chat assistant you will be paid to reply to live chat messages on a businesses website or social media accounts. This includes answering customer questions, providing sales links and offering discounts.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $25 - $35 per hour</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 5+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week: 5 - 40 hours a week</p><br><p>Location: Remote work online from Houston, United States.</p><br><p>Live Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 25,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Live Chat Assistants - Hiring Now!\",\n  \"description\": \"<p>$25 - $35 per hour | Online/Remote Position | Flexible</p><br><p>We are currently hiring new live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts. These are remote positions, meaning that you can do the work online from anywhere in the world. You can read full details of the job (and apply) below:</p><br><p>What you will be doing: As a live chat assistant you will be paid to reply to live chat messages on a businesses website or social media accounts. This includes answering customer questions, providing sales links and offering discounts.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $25 - $35 per hour</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 5+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week: 5 - 40 hours a week</p><br><p>Location: Remote work online from Houston, United States.</p><br><p>Live Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 25,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -1631,7 +1631,7 @@
       "settings": {
         "title": "Moderate Forum Chats ($259 per day)",
         "meta_descr": "This is a great opportunity for anyone who enjoys engaging in forum discussions. We are seeking good people to assist in moderating chats on behalf of a major client. The work can be done remotely, and flexible hours are available.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Chat Forum Moderators ($259 per day)\",\n  \"description\": \"<p>$37 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>This is a great opportunity for anyone who enjoys engaging in forum discussions. We are seeking good people to assist in moderating chats on behalf of a major client. The work can be done remotely, and flexible hours are available.</p><br><p>As a chat moderator, you will monitor forum discussions to check that all posters are sticking to the rules. You will need to remove inappropriate posts and relocate posts that are in the wrong forum. This is easy work for anyone who finds online chat interesting.</p><br><p>Rate: $37 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 259,\n      \"maxValue\": 259,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>",
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Chat Forum Moderators ($259 per day)\",\n  \"description\": \"<p>$37 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>This is a great opportunity for anyone who enjoys engaging in forum discussions. We are seeking good people to assist in moderating chats on behalf of a major client. The work can be done remotely, and flexible hours are available.</p><br><p>As a chat moderator, you will monitor forum discussions to check that all posters are sticking to the rules. You will need to remove inappropriate posts and relocate posts that are in the wrong forum. This is easy work for anyone who finds online chat interesting.</p><br><p>Rate: $37 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 259,\n      \"maxValue\": 259,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>",
         "footer_custom": ""
       },
       "components": [
@@ -2200,7 +2200,7 @@
         "title": "$280 per day - Walmart Customer Support Jobs (Remote)",
         "meta_descr": "We need more employees to help deliver quality customer service on the Walmart online platform. If you are reliable and like chatting, this may be a good fit for you. We are recruiting good people to work as paid chat assistants online.",
         "footer_custom": "",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"$280 per day - Remote Walmart Customer Support Chat Jobs (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>We need more employees to help deliver quality customer service on the Walmart online platform. If you are reliable and like chatting, this may be a good fit for you. We are recruiting good people to work as paid chat assistants online. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. However, we have a particular need for more applicants from Houston.</p><br><p>What you will be doing:</p><br><p>As a live chat assistant, you will be paid to reply to live chat messages on the Walmart platform. This includes answering customer questions, providing sales links, and offering discounts. There will be opportunities for promotion and extra employee benefits.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 280,\n      \"maxValue\": 280,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"$280 per day - Remote Walmart Customer Support Chat Jobs (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>We need more employees to help deliver quality customer service on the Walmart online platform. If you are reliable and like chatting, this may be a good fit for you. We are recruiting good people to work as paid chat assistants online. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. However, we have a particular need for more applicants from Houston.</p><br><p>What you will be doing:</p><br><p>As a live chat assistant, you will be paid to reply to live chat messages on the Walmart platform. This includes answering customer questions, providing sales links, and offering discounts. There will be opportunities for promotion and extra employee benefits.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 280,\n      \"maxValue\": 280,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -2767,7 +2767,7 @@
       "settings": {
         "title": "$2,000/month Part-Time Live Chat Job",
         "meta_descr": "Are you interested in a part-time live chat assistant job? This job is for 15 - 20 hours a week, working remotely online as a live chat assistant.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"$2,000/month Part-Time Live Customer Service Chat Job\",\n  \"description\": \"<p>$2,000 per month | Online/Remote Position | Flexible</p><br><p>Are you interested in a part-time live chat assistant job? This job is for 15 - 20 hours a week, working remotely online as a live chat assistant.</p><br><p>What you will be doing: As a live chat assistant you will be paid to reply to live chat messages on a business's website or social media accounts. This includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $2,000 a month</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 15+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week:15 - 20 hours a week</p><br><p>Location: Remote work online (Houston preferred).</p><br><p>Live Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 2000,\n      \"maxValue\": 2000,\n      \"unitText\": \"MONTH\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"$2,000/month Part-Time Live Customer Service Chat Job\",\n  \"description\": \"<p>$2,000 per month | Online/Remote Position | Flexible</p><br><p>Are you interested in a part-time live chat assistant job? This job is for 15 - 20 hours a week, working remotely online as a live chat assistant.</p><br><p>What you will be doing: As a live chat assistant you will be paid to reply to live chat messages on a business's website or social media accounts. This includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $2,000 a month</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 15+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week:15 - 20 hours a week</p><br><p>Location: Remote work online (Houston preferred).</p><br><p>Live Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 2000,\n      \"maxValue\": 2000,\n      \"unitText\": \"MONTH\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -3334,7 +3334,7 @@
       "settings": {
         "title": "Facebook Chat Assistant - $30/hr",
         "meta_descr": "Do you use Facebook? Are you looking for a job you can do online? Hundreds of businesses are currently hiring new Facebook Chat Assistants to chat with their customers on Facebook.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Facebook Customer Service Chat Assistant - $30/hr\",\n  \"description\": \"<p>$30 per hour | Online/Remote Position | Flexible</p><br><p>Do you use Facebook? Are you looking for a job you can do online? Hundreds of businesses are currently hiring new Facebook Chat Assistants to chat with their customers on Facebook. There are a lot of positions available for people from United States and because of the high demand for new workers, entry level jobs are paying $30/hr. Full details below.</p><br><p>What you will be doing: As a Facebook live chat assistant, you will be paid to login to the businesses Facebook account and respond to frequently asked questions from customers. These are normally things like prices, refund policies and giving out discount codes. Full training is provided and training takes less than a day.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $30 an hour</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 10+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week: 10 - 40 hours a week</p><br><p>Location: Remote work online from Houston, Texas, United States.</p><br><p>Facebook Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 30,\n      \"maxValue\": 30,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Facebook Customer Service Chat Assistant - $30/hr\",\n  \"description\": \"<p>$30 per hour | Online/Remote Position | Flexible</p><br><p>Do you use Facebook? Are you looking for a job you can do online? Hundreds of businesses are currently hiring new Facebook Chat Assistants to chat with their customers on Facebook. There are a lot of positions available for people from United States and because of the high demand for new workers, entry level jobs are paying $30/hr. Full details below.</p><br><p>What you will be doing: As a Facebook live chat assistant, you will be paid to login to the businesses Facebook account and respond to frequently asked questions from customers. These are normally things like prices, refund policies and giving out discount codes. Full training is provided and training takes less than a day.</p><br><p>Contract length: No fixed term</p><br><p>Rate: $30 an hour</p><br><p>Skills/background needed: Must have a device able to access social media and website chat functions (Phone/Tablet/Laptop). Be able to work independently. Ability to closely follow provided steps and instructions. Have 10+ hours availability per week. Reliable internet connection.</p><br><p>Hours per week: 10 - 40 hours a week</p><br><p>Location: Remote work online from Houston, Texas, United States.</p><br><p>Facebook Chat Assistants are in huge demand worldwide right now.</p><br><p>If you can start right away please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 30,\n      \"maxValue\": 30,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -3901,7 +3901,7 @@
       "settings": {
         "title": "Live Chat Assistant ($280 per day)",
         "meta_descr": "We currently need friendly, reliable people to work as live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Live Chat Assistant ($280 per day)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>We currently need more friendly, reliable people to work as live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts. These are remote positions, meaning that you can do the work online from anywhere.</p><br><p>As a live chat assistant, you will be paid to reply to live chat messages on a business's website or social media accounts. This includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 280,\n      \"maxValue\": 280,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/xORxQjj.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Live Chat Assistant ($280 per day)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>We currently need more friendly, reliable people to work as live chat assistants. You will work for businesses answering live chat messages on their website or social media accounts. These are remote positions, meaning that you can do the work online from anywhere.</p><br><p>As a live chat assistant, you will be paid to reply to live chat messages on a business's website or social media accounts. This includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 280,\n      \"maxValue\": 280,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/xORxQjj.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -4468,7 +4468,7 @@
       "settings": {
         "title": "$280.00 per day: Now Hiring Shopify Staff (Immediate Start)",
         "meta_descr": "Would you like to join the Shopify team? Right now, we have a great opportunity for friendly, reliable people. A number of Shopify-based businesses are seeking chat assistants to help them serve customers.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Shopify Live Customer Service Chat Assistant - $35/hr (Immediate Start)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>Would you like to join the Shopify team? Right now, we have a great opportunity for friendly, reliable people. A number of Shopify-based businesses are seeking chat assistants to help them serve customers. They need chatty people to answer messages from website visitors. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>As a Shopify live chat assistant, you will be paid to reply to live chat messages on a business's website or social media accounts. You will help people purchases products through the Shopify platform. The work includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"TX\",\n      \"addressCountry\": \"US\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Shopify Live Customer Service Chat Assistant - $35/hr (Immediate Start)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>Would you like to join the Shopify team? Right now, we have a great opportunity for friendly, reliable people. A number of Shopify-based businesses are seeking chat assistants to help them serve customers. They need chatty people to answer messages from website visitors. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>As a Shopify live chat assistant, you will be paid to reply to live chat messages on a business's website or social media accounts. You will help people purchases products through the Shopify platform. The work includes answering customer questions, providing sales links, and offering discounts.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"TX\",\n      \"addressCountry\": \"US\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -5035,7 +5035,7 @@
       "settings": {
         "title": "$296.00 per day - Amazon Chat Assistant",
         "meta_descr": "If you have ever used Amazon, this may be the perfect job opportunity. We are seeking people familiar with the Amazon shopping platform and willing to assist others, In particular, we need live chat assistants to resolve queries.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Amazon Chat Assistant - $37/hr (Remote)\",\n  \"description\": \"<p>$37 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you have ever used Amazon, this may be the perfect job opportunity. We are seeking people familiar with the Amazon shopping platform and willing to assist others, In particular, we need live chat assistants to resolve queries.</p><br><p>If you are willing and able to chat with people online, we have a high-paying remote position that may interest you. We need more good people to help customers resolve payment matters online, by communicating over online chat services.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>Our Amazon chat assistants help customers resolve issues with orders and payments. These may involve checking Amazon payments or otherwise resolving simple issues. Other duties may include answering customer questions, providing sales links, and offering discounts. You will help people find the information they need and process their orders successfully.</p><br><p>Rate: $37 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 37,\n      \"maxValue\": 37,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Amazon Chat Assistant - $37/hr (Remote)\",\n  \"description\": \"<p>$37 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you have ever used Amazon, this may be the perfect job opportunity. We are seeking people familiar with the Amazon shopping platform and willing to assist others, In particular, we need live chat assistants to resolve queries.</p><br><p>If you are willing and able to chat with people online, we have a high-paying remote position that may interest you. We need more good people to help customers resolve payment matters online, by communicating over online chat services.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>Our Amazon chat assistants help customers resolve issues with orders and payments. These may involve checking Amazon payments or otherwise resolving simple issues. Other duties may include answering customer questions, providing sales links, and offering discounts. You will help people find the information they need and process their orders successfully.</p><br><p>Rate: $37 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 37,\n      \"maxValue\": 37,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -5602,7 +5602,7 @@
       "settings": {
         "title": "Get Paid to Talk (No Phone Calls: $280 per day)",
         "meta_descr": "If you are able to talk to people in English, we would like to hear from you. You do NOT need to talk to anyone on the phone as all the work is done in online chat.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Chat Assistant (No Phone Calls) - $35/hr (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you are able to talk to people in English, we would like to hear from you. You do NOT need to talk to anyone on the phone as all the work is done in online chat. You can be based anywhere in the world but should be able to hold simple conversations.</p><br><p>We need live chat assistants who can reply to messages from website visitors. You will answer customer questions using the chat facility. You need to be polite and helpful, ready to assist where you can. You may need to answer questions, send discount coupons or pass messages on to others.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, Texas, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Chat Assistant (No Phone Calls) - $35/hr (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you are able to talk to people in English, we would like to hear from you. You do NOT need to talk to anyone on the phone as all the work is done in online chat. You can be based anywhere in the world but should be able to hold simple conversations.</p><br><p>We need live chat assistants who can reply to messages from website visitors. You will answer customer questions using the chat facility. You need to be polite and helpful, ready to assist where you can. You may need to answer questions, send discount coupons or pass messages on to others.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, Texas, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -6169,7 +6169,7 @@
       "settings": {
         "title": "$280.00 per day: Chat on Skype (Immediate Start)",
         "meta_descr": "If you like to chat on Skype, you may be a perfect fit for our latest job opportunity. Right now, we are seeking friendly people who can hold short online conversations. We may employ multiple people if enough suitable candidates are available.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Skype Customer Service Chat Assistant - $35/hr (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you like to chat on Skype, you may be a perfect fit for our latest job opportunity. Right now, we are seeking friendly people who can hold short online conversations. We may employ multiple people if enough suitable candidates are available. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>As a Skype chat assistant, you will be paid to reply to live messages from customers and prospective buyers. This includes answering their questions, providing sales links, and offering discounts. This is a simple job for a friendly person who speaks English moderately well.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, Texas, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Remote Skype Customer Service Chat Assistant - $35/hr (Remote)\",\n  \"description\": \"<p>$35 per hour | Online/Remote Position | Flexible</p><br><p>Job Description:</p><br><p>If you like to chat on Skype, you may be a perfect fit for our latest job opportunity. Right now, we are seeking friendly people who can hold short online conversations. We may employ multiple people if enough suitable candidates are available. In this role, enthusiasm and dependability are more important than experience.</p><br><p>These are remote positions, meaning that you can do the work online from anywhere. We are seeking reliable and dependable people who are friendly and take pride in their work.</p><br><p>What you will be doing:</p><br><p>As a Skype chat assistant, you will be paid to reply to live messages from customers and prospective buyers. This includes answering their questions, providing sales links, and offering discounts. This is a simple job for a friendly person who speaks English moderately well.</p><br><p>Rate: $35 per hour</p><br><p>Requirements: You need to have access to a laptop, phone, or tablet and have a reliable internet connection. You also need to have at least basic English writing skills.</p><br><p>Skills/background needed: These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p><br><p>Location: You can work remotely online from Houston, Texas, United States.</p><br><p>Live chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"FULL_TIME\",\n    \"PART_TIME\",\n    \"CONTRACTOR\",\n    \"TEMPORARY\",\n    \"INTERN\",\n    \"OTHER\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"Texas\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -6736,7 +6736,7 @@
       "settings": {
         "title": "Business TikTok Administrative Assistant",
         "meta_descr": "We're looking for ordinary people from United States to help those businesses by uploading TikTok content on behalf of them. Here, you'll get access to those companies' TikTok account. And your job is just to post the provided premade content on it.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"TikTok Content Uploader - $175/day (Remote)\",\n  \"description\": \"<h3>About the Company:</h3>\n<p>Our client is a company that helps businesses improve their social media presence by uploading TikTok content on their behalf. They are looking for ordinary people from the United States to join their team and work remotely as TikTok Content Uploaders.</p>\n<h3>About the Job:</h3>\n<p>The TikTok Content Uploader will be responsible for posting provided premade content onto businesses' TikTok accounts. The Uploader will have access to the businesses' TikTok account and will need to post the content daily. This is a remote position, so the Uploader can work from their own home. The pay for this job is $175/day.</p>\n<h3>Key Responsibilities:</h3>\n<ul>\n<li>Post provided premade content on businesses' TikTok accounts</li>\n<li>Ensure that the content is posted daily</li>\n<li>Communicate with businesses to ensure that all requirements are met</li>\n<li>Be available for 9-10 hours per week</li>\n</ul>\n<h3>Qualifications:</h3>\n<ul>\n<li>No prior experience required; full training will be provided</li>\n<li>Passion for social media and a desire to learn</li>\n<li>Must have a smartphone or simple device to post content</li>\n<li>Must have a reliable internet connection</li>\n<li>Must be available for 9-10 hours per week, but can choose when to work those hours</li>\n<li>Must be located in the United States</li>\n</ul>\n<h3>Benefits:</h3>\n<ul>\n<li>Flexible schedule, as this is a remote position</li>\n<li>Opportunity to work with a growing company and help businesses improve their social media presence</li>\n<li>Pay of $175 per day</li>\n</ul>\n<h3>How to Apply:</h3>\n<p>If you are interested in this opportunity and meet the qualifications, please apply today. We can't wait to hear from you!</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 175,\n      \"maxValue\": 175,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"TikTok Content Uploader - $175/day (Remote)\",\n  \"description\": \"<h3>About the Company:</h3>\n<p>Our client is a company that helps businesses improve their social media presence by uploading TikTok content on their behalf. They are looking for ordinary people from the United States to join their team and work remotely as TikTok Content Uploaders.</p>\n<h3>About the Job:</h3>\n<p>The TikTok Content Uploader will be responsible for posting provided premade content onto businesses' TikTok accounts. The Uploader will have access to the businesses' TikTok account and will need to post the content daily. This is a remote position, so the Uploader can work from their own home. The pay for this job is $175/day.</p>\n<h3>Key Responsibilities:</h3>\n<ul>\n<li>Post provided premade content on businesses' TikTok accounts</li>\n<li>Ensure that the content is posted daily</li>\n<li>Communicate with businesses to ensure that all requirements are met</li>\n<li>Be available for 9-10 hours per week</li>\n</ul>\n<h3>Qualifications:</h3>\n<ul>\n<li>No prior experience required; full training will be provided</li>\n<li>Passion for social media and a desire to learn</li>\n<li>Must have a smartphone or simple device to post content</li>\n<li>Must have a reliable internet connection</li>\n<li>Must be available for 9-10 hours per week, but can choose when to work those hours</li>\n<li>Must be located in the United States</li>\n</ul>\n<h3>Benefits:</h3>\n<ul>\n<li>Flexible schedule, as this is a remote position</li>\n<li>Opportunity to work with a growing company and help businesses improve their social media presence</li>\n<li>Pay of $175 per day</li>\n</ul>\n<h3>How to Apply:</h3>\n<p>If you are interested in this opportunity and meet the qualifications, please apply today. We can't wait to hear from you!</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 175,\n      \"maxValue\": 175,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -7303,7 +7303,7 @@
       "settings": {
         "title": "YouTube Gaming Job",
         "meta_descr": "Would you like to make $150 a day by helping a professional gamer on YouTube? You might know that the gaming community on YouTube is vast. Nowadays, being a professional gamer on YouTube is becoming the ultimate dream of most o people. People enjoy watching those streams for hours without getting bored. And if you also like watching gamers playing your favorite games on YouTube, you might love this job.",
-        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"YouTube Gamer Channel Virtual Assistant\",\n  \"description\": \"<h3>About the Company:</h3>\n<p>Our client is a successful professional YouTuber with a gaming channel that has millions of subscribers. The YouTuber is looking for an assistant to help with the day-to-day operations of the channel, including uploading content and managing the channel's backend.</p>\n<h3>About the Job:</h3>\n<p>The Assistant to Professional YouTuber will be responsible for downloading and uploading content onto the YouTuber's channel. The YouTuber will provide the assistant with premade content that needs to be uploaded onto the channel with a provided description, thumbnail, and tags. The assistant will be required to upload the content daily and ensure that it meets the YouTuber's requirements. This is a remote position, so the assistant can work from their own home.</p>\n<h3>Key Responsibilities:</h3>\n<ul>\n<li>Download premade content onto a laptop, tablet, or smartphone</li>\n<li>Upload content onto the YouTuber's channel with provided description, thumbnail, and tags</li>\n<li>Ensure that the content meets the YouTuber's requirements</li>\n<li>Upload content daily to the YouTuber's channel</li>\n<li>Communicate with the YouTuber to ensure that all requirements are met</li>\n</ul>\n<h3>Qualifications:</h3>\n<ul>\n<li>Prior experience with YouTube or other digital content management is a plus, but not required</li>\n<li>Must be reliable and consistent in uploading content daily</li>\n<li>Ability to work independently and meet deadlines</li>\n<li>Strong communication skills to ensure that all requirements are met</li>\n<li>Must have a laptop, tablet, or smartphone to download and upload content</li>\n<li>Must reside in the United States</li>\n</ul>\n<h3>Benefits:</h3>\n<ul>\n<li>Flexible schedule, as this is a remote position</li>\n<li>Opportunity to work with a successful YouTuber and learn about digital content management</li>\n<li>Steady stream of premade content to work with</li>\n</ul>\n<h3>How to Apply:</h3>\n<p>If you are interested in this opportunity, please apply today. We can't wait to hear from you!</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 150,\n      \"maxValue\": 150,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-28\",\n  \"employmentType\": [\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"City\",\n    \"name\": \"Houston\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"TX\",\n      \"addressCountry\": \"US\"\n    }\n  },\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"YouTube Gamer Channel Virtual Assistant\",\n  \"description\": \"<h3>About the Company:</h3>\n<p>Our client is a successful professional YouTuber with a gaming channel that has millions of subscribers. The YouTuber is looking for an assistant to help with the day-to-day operations of the channel, including uploading content and managing the channel's backend.</p>\n<h3>About the Job:</h3>\n<p>The Assistant to Professional YouTuber will be responsible for downloading and uploading content onto the YouTuber's channel. The YouTuber will provide the assistant with premade content that needs to be uploaded onto the channel with a provided description, thumbnail, and tags. The assistant will be required to upload the content daily and ensure that it meets the YouTuber's requirements. This is a remote position, so the assistant can work from their own home.</p>\n<h3>Key Responsibilities:</h3>\n<ul>\n<li>Download premade content onto a laptop, tablet, or smartphone</li>\n<li>Upload content onto the YouTuber's channel with provided description, thumbnail, and tags</li>\n<li>Ensure that the content meets the YouTuber's requirements</li>\n<li>Upload content daily to the YouTuber's channel</li>\n<li>Communicate with the YouTuber to ensure that all requirements are met</li>\n</ul>\n<h3>Qualifications:</h3>\n<ul>\n<li>Prior experience with YouTube or other digital content management is a plus, but not required</li>\n<li>Must be reliable and consistent in uploading content daily</li>\n<li>Ability to work independently and meet deadlines</li>\n<li>Strong communication skills to ensure that all requirements are met</li>\n<li>Must have a laptop, tablet, or smartphone to download and upload content</li>\n<li>Must reside in the United States</li>\n</ul>\n<h3>Benefits:</h3>\n<ul>\n<li>Flexible schedule, as this is a remote position</li>\n<li>Opportunity to work with a successful YouTuber and learn about digital content management</li>\n<li>Steady stream of premade content to work with</li>\n</ul>\n<h3>How to Apply:</h3>\n<p>If you are interested in this opportunity, please apply today. We can't wait to hear from you!</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 150,\n      \"maxValue\": 150,\n      \"unitText\": \"DAY\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"City\",\n    \"name\": \"Houston\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressLocality\": \"Houston\",\n      \"addressRegion\": \"TX\",\n      \"addressCountry\": \"US\"\n    }\n  },\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
       },
       "components": [
         {
@@ -7863,6 +7863,1140 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        }
+      ]
+    },
+    "live-chat-assistant-job.html": {
+      "settings": {
+        "title": "Live Chat Agent - Work From Home - Part-Time",
+        "meta_descr": "We're looking for ordinary people from United States to help those businesses by uploading TikTok content on behalf of them. Here, you'll get access to those companies' TikTok account. And your job is just to post the provided premade content on it.",
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Live Chat Agent - Work From Home - Part-Time\",\n  \"description\": \"<h2>Job Summary</h2>\n\t<p>Remote Job Forum is seeking a Customer Service Chat Agent to join our team. As a Chat Agent, you will be responsible for providing excellent customer care and resolving customer issues in a timely and efficient manner. You will also build relationships with customer accounts through open and interactive communication. This is a remote position that offers flexibility and the ability to work from anywhere with an internet connection.</p>\n\n\t<h2>Key Responsibilities</h2>\n\t<ul>\n\t\t<li>Reply to chats by helping customers with billing, technical, and service questions</li>\n\t\t<li>Address customer issues and resolve them in a timely and efficient manner</li>\n\t\t<li>Build sustainable relationships and trust with customer accounts through open and interactive communication</li>\n\t\t<li>Follow communication procedures, guidelines, and policies</li>\n\t\t<li>Provide accurate, valid, and complete information by using the right methods/tools</li>\n\t\t<li>Complete a 2-week paid training to learn about our products and services</li>\n\t</ul>\n\n\t<h2>Requirements</h2>\n\t<ul>\n\t\t<li>High school diploma or equivalent</li>\n\t\t<li>1+ years of experience in customer service</li>\n\t\t<li>Excellent written and verbal communication skills</li>\n\t\t<li>Strong problem-solving skills</li>\n\t\t<li>Ability to multitask and work under pressure</li>\n\t\t<li>Proficient in using computers and software applications</li>\n\t\t<li>Must have a quiet workspace and high-speed internet</li>\n\t</ul>\n\n\t<h2>Compensation and Benefits</h2>\n\t<ul>\n\t\t<li>$14 per hour plus bonus</li>\n\t\t<li>2 weeks of paid training</li>\n\t\t<li>Flexible schedule</li>\n\t\t<li>Ability to work from anywhere with an internet connection</li>\n\t\t<li>Paid time off</li>\n\t\t<li>401k plan</li>\n\t\t<li>Health insurance</li>\n\t\t<li>Dental insurance</li>\n\t\t<li>Vision insurance</li>\n\t</ul>\n\n\t<h2>About Remote Job Forum</h2>\n\t<p>\n\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 13,\n      \"maxValue\": 14,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@reverseContent)": {
+              ".row": {
+                "flex-direction": "row-reverse"
+              }
+            },
+            "& when (@fullWidth)": {
+              "& when (@imageFullWidth)": {
+                ".container-fluid": {
+                  "padding": "0"
+                },
+                ".text-wrapper": {
+                  "padding": "0 4rem",
+                  "@media (max-width: 768px)": {
+                    "padding": "0 2rem"
+                  }
+                }
+              }
+            },
+            ".image-wrapper": {
+              "@media (max-width: 991px)": {
+                "margin-bottom": "2rem"
+              },
+              "img": {
+                "width": "100%",
+                "object-fit": "cover"
+              }
+            },
+            ".text-wrapper": {
+              "@media (min-width: 992px)": {
+                "padding": "0 2rem",
+                "& when (@fullWidth)": {
+                  "padding": "0 4rem"
+                }
+              },
+              "@media (max-width: 768px)": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#000000"
+            }
+          },
+          "_name": "header14",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\" checked>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background7.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img src=\"@PROJECT_PATH@/assets/images/mbr-1-816x544.jpg\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><b>Live Chat Agent - Work From Home - Part-Time</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br><b>Job</b> <b>Summary</b><br><br>Remote Job Forum is seeking a Customer Service Chat Agent to join our team. As a Chat Agent, you will be responsible for providing excellent customer care and resolving customer issues in a timely and efficient manner. You will also build relationships with customer accounts through open and interactive communication. This is a remote position that offers flexibility and the ability to work from anywhere with an internet connection.<br><br><b>Key Responsibilities<br></b><br>- Reply to chats by helping customers with billing, technical, and service questions<br>- Address customer issues and resolve them in a timely and efficient manner<br>- Build sustainable relationships and trust with customer accounts through open and interactive communication<br>- Follow communication procedures, guidelines, and policies<br>- Provide accurate, valid, and complete information by using the right methods/tools<br>- Complete a 2-week paid training to learn about our products and services<br><br><b>Requirements</b><br><br>- High school diploma or equivalent<br>- 1+ years of experience in customer service<br>- Excellent written and verbal communication skills<br>- Strong problem-solving skills<br>- Ability to multitask and work under pressure<br>- Proficient in using computers and software applications<br>- Must have a quiet workspace and high-speed internet<br><br><b>Compensation and Benefits<br></b><br>- $14 per hour plus bonus<br>- 2 weeks of paid training<br>- Flexible schedule<br>- Ability to work from anywhere with an internet connection<br>- Paid time off<br>- 401k plan<br>- Health insurance<br>- Dental insurance<br>- Vision insurance<br><br><b>FAQs About Remote Work<br></b><br>- What equipment do I need to work remotely?<br><br>  You will need a computer, high-speed internet, a headset, and a quiet workspace. Some positions may require additional equipment.<br><br>- What are the benefits of working remotely?<br><br>  Working remotely offers flexibility and the ability to work from anywhere with an internet connection. This can save time and money on commuting and allow for a better work-life balance. It can also increase productivity and job satisfaction.<br><br>- How do I stay connected with my team while working remotely?<br><br>  Communication tools such as video conferencing, instant messaging, and project management software can help you stay connected with your team. It’s important to establish regular check-ins and set clear expectations for communication.<br><br>- What are the challenges of working remotely?<br><br>  Working remotely can be isolating and may require more self-discipline and motivation. It can also be challenging to establish boundaries between work and personal life when working from home.<br><br>- How can I be successful as a remote worker?<br><br>  Successful remote workers are self-motivated, have strong communication skills, and are able to manage their time effectively. It’s important to establish a routine and set boundaries to maintain a work-life balance. It’s also important to stay connected with your team and actively seek out opportunities for professional development.<br><br><b>About Remote Job Forum<br></b><br>Remote Job Forum specializes in remote and work from home positions. We bring first-class service across each market we support. As a remote and work from home job board, you’ll be a part of creating and delivering amazing customer experiences, while also enjoying the satisfaction of being part of a unique culture. We all care, live, and breathe our culture by caring and radiating a positive work environment.<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://swiy.co/LiveChat\" data-app-placeholder=\"Type Text\">Apply Now &gt;</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tCPAZoFoif",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header14-z"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"#top\" class=\"text-white\">Home</a></li>\n                    \n                    \n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                    \n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-4\" data-app-selector=\".row .mbr-text\">\n                    © Copyright 2023 Remote Job Forum. All Rights Reserved.<br><br>Please note that Remote Job Forum is NOT a recruitment agency. We are not an agent or representative of any employer.<br><br>Marketing Disclosure: This website is a market place. As such you should know that the owner has a monetary connection to the product and services advertised on the site. The owner receives payment whenever a qualified lead is referred.<br>\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "tCPAZp96CB",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {},
+          "_anchor": "footer3-10"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@sticky)": {
+              ".navbar-dropdown": {
+                "position": "relative !important"
+              },
+              "& when (@transparent)": {
+                ".navbar-dropdown": {
+                  "position": "absolute !important"
+                }
+              }
+            },
+            "& when (@sticky)": {
+              "z-index": "1000",
+              "width": "100%",
+              "& when not (@transparent)": {
+                "position": "relative",
+                "min-height": "60px"
+              },
+              "nav.navbar": {
+                "position": "fixed"
+              }
+            },
+            ".dropdown-item:before": {
+              "font-family": "Moririse2 !important",
+              "content": "\"\\e966\"",
+              "display": "inline-block",
+              "width": "0",
+              "position": "absolute",
+              "left": "1rem",
+              "top": "0.5rem",
+              "margin-right": "0.5rem",
+              "line-height": "1",
+              "font-size": "inherit",
+              "vertical-align": "middle",
+              "text-align": "center",
+              "overflow": "hidden",
+              "transform": "scale(0, 1)",
+              "transition": "all 0.25s ease-in-out"
+            },
+            ".dropdown-menu": {
+              "padding": "0",
+              "border-radius": "4px",
+              "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)"
+            },
+            ".dropdown-item": {
+              "border-bottom": "1px solid #e6e6e6",
+              "&:hover, &:focus": {
+                "background": "@primaryColor !important",
+                "color": "white !important"
+              },
+              "&:first-child": {
+                "border-top-left-radius": "4px",
+                "border-top-right-radius": "4px"
+              },
+              "&:last-child": {
+                "border-bottom": "none",
+                "border-bottom-left-radius": "4px",
+                "border-bottom-right-radius": "4px"
+              }
+            },
+            ".nav-dropdown .link": {
+              "padding": "0 0.3em !important",
+              "margin": "0.667em 1em !important"
+            },
+            ".nav-dropdown .link.dropdown-toggle::after": {
+              "margin-left": "0.5rem",
+              "margin-top": "0.2rem"
+            },
+            ".nav-link": {
+              "position": "relative"
+            },
+            ".container": {
+              "display": "flex",
+              "margin": "auto"
+            },
+            ".iconfont-wrapper": {
+              "color": "@iconsColor !important",
+              "font-size": "1.5rem",
+              "padding-right": "0.5rem"
+            },
+            ".navbar-caption": {},
+            ".navbar-nav": {},
+            ".dropdown-menu, .navbar.opened": {
+              "background": "@menuBgColor !important"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".dropdown .dropdown-menu .dropdown-item": {
+              "width": "auto",
+              "transition": "all 0.25s ease-in-out",
+              "&::after": {
+                "right": "0.5rem"
+              },
+              ".mbr-iconfont": {
+                "margin-right": "0.5rem",
+                "vertical-align": "sub",
+                "&:before": {
+                  "display": "inline-block",
+                  "transform": "scale(1, 1)",
+                  "transition": "all 0.25s ease-in-out"
+                }
+              }
+            },
+            ".collapsed": {
+              ".dropdown-menu .dropdown-item:before": {
+                "display": "none"
+              },
+              ".dropdown .dropdown-menu .dropdown-item": {
+                "padding": "0.235em 1.5em 0.235em 1.5em !important",
+                "transition": "none",
+                "margin": "0 !important"
+              }
+            },
+            ".navbar": {
+              "min-height": "70px",
+              "transition": "all 0.3s",
+              "border-bottom": "1px solid transparent",
+              "&:not(.navbar-short)": {},
+              "& when not (@transparent)": {
+                "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)",
+                "background": "@menuBgColor"
+              },
+              "& when (@transparent)": {
+                "position": "absolute",
+                "background": "rgba(red(@menuBgColor), green(@menuBgColor), blue(@menuBgColor), @opacity)"
+              },
+              "&.opened": {
+                "transition": "all 0.3s"
+              },
+              ".dropdown-item": {
+                "padding": "0.5rem 1.8rem"
+              },
+              ".navbar-logo img": {
+                "width": "auto"
+              },
+              ".navbar-collapse": {
+                "justify-content": "flex-end",
+                "z-index": "1"
+              },
+              "&.collapsed": {
+                "justify-content": "center",
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "41%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "40%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem !important",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "flex-shrink": "initial",
+                  "flex-basis": "auto",
+                  "word-break": "break-word",
+                  "padding-right": "2rem"
+                },
+                ".navbar-toggler": {
+                  "flex-basis": "auto"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "&.navbar-short": {
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "2.5rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "min-height": "60px",
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "min-height": "70px",
+              "flex-shrink": "0",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "10px 0",
+              "transition": "all 0.3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active, .dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center",
+              "min-width": "170px"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all 0.2s",
+              "position": "relative",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all 0.2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all 0.2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              },
+              "&:nth-child(2)": {
+                "transform": "rotate(45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(3)": {
+                "transform": "rotate(-45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": "0 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".icons-menu": {
+              "flex-wrap": "nowrap",
+              "display": "flex",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "padding-right": "1rem",
+              "padding-top": "0.3rem",
+              "text-align": "center"
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".navbar": {
+                "height": "70px",
+                "&.opened": {
+                  "height": "auto"
+                }
+              },
+              ".nav-item .nav-link:hover::before": {
+                "width": "175%",
+                "max-width": "calc(100% ~\"+\" 2rem)",
+                "left": "-1rem"
+              }
+            }
+          },
+          "_name": "menu2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"menu menu2\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3\" max=\"8\" step=\"0.1\" value=\"5.2\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcons\">\n        <select title=\"Amount\" name=\"iconsAmount\" condition=\"showIcons\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Button\" name=\"showButtons\" checked>\n        <header>Styles</header>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\">\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"range\" title=\"Opacity\" name=\"opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"1\" condition=\"transparent\">\n        <input type=\"color\" title=\"Color\" name=\"menuBgColor\" value=\"#fafafa\">\n        <input type=\"color\" title=\"Hamburger\" name=\"hamburgerColor\" value=\"#000000\">\n    </mbr-parameters>\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                    'navbar-expand-lg':!collapsed,\n                    'collapsed':collapsed}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/remote-job-forum-1-170x96.png\" alt=\"Mobirise Website Builder\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-iconFont\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\"></a></span>\n            </div>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-bs-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems || showIcons || showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\" mbr-if=\"showItems || showIcons || showButtons\">\n                <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\"><a class=\"nav-link link text-black text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-black text-primary dropdown-toggle\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" data-bs-toggle=\"dropdown\" data-bs-auto-close=\"outside\" aria-expanded=\"false\">Open Jobs</a><div class=\"dropdown-menu\" aria-labelledby=\"dropdown-102\"><a class=\"text-black text-primary dropdown-item\" href=\"remote-live-chat-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Live Chat Assistants - Hiring Now!</a><a class=\"text-black text-primary show dropdown-item\" href=\"chat-forum-moderator-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Moderate Forum Chats ($259 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"walmart-customer-support-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$280 per day - Walmart Customer Support</a><a class=\"text-black text-primary show dropdown-item\" href=\"part-time-live-chat-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$2,000/month Part-Time Live Chat Job</a><a class=\"text-black text-primary show dropdown-item\" href=\"facebook-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Facebook Live Chat Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"live-chat-assistant-280-per-day.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Live Chat Assistant ($280 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"shopify-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Shopify Staff - $280 per Day</a><a class=\"text-black text-primary dropdown-item\" href=\"amazon-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$296.00 per day - Amazon Chat Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"get-paid-to-talk-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Get Paid to Talk (No Phone Calls: $280 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"skype-chat-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$280.00 per day: Chat on Skype</a><a class=\"text-black text-primary show dropdown-item\" href=\"youtube-gaming-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">YouTube Gaming Channel Virtual Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"tik-tok-assistant.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Business TikTok Administrative Assistant</a></div></li></ul>\n                <div class=\"icons-menu\" mbr-if=\"showIcons\">\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-facebook socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-twitter socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-instagram socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-linkedin socicon\"></span>\n                    </a>\n                </div>\n                <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-primary\" href=\"https://swiy.co/LiveChatJobs\" data-app-placeholder=\"Type Text\" target=\"_blank\">Apply Now</a></div>\n            </div>\n        </div>\n    </nav>\n</section>",
+          "_isUserblock": true,
+          "_cid": "tCPAZpoytj",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu2-11"
+        }
+      ]
+    },
+    "customer-chat-support-no-experience.html": {
+      "settings": {
+        "title": "Customer Support Chat Agent (Remote / No Experience)",
+        "meta_descr": "We are currently seeking individuals who are proficient in English and possess excellent communication skills to engage with visitors on websites through online chat. We are looking for friendly, personable individuals who can deliver exceptional customer service. Familiarity with copy and paste functions in chat programs is an added advantage. Successful candidates can earn up to $280 per day.",
+        "header_custom": "<script type=\"application/ld+json\" id=\"jobPostingSchema\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"JobPosting\",\n  \"title\": \"Customer Support Chat Agent (Remote/No Experience)\",\n  \"description\": \"<h1>We are currently seeking individuals who are proficient in English and possess excellent communication skills to engage with visitors on websites through online chat.</h1>\n    <p>We are looking for friendly, personable individuals who can deliver exceptional customer service. Familiarity with copy and paste functions in chat programs is an added advantage. Successful candidates can earn up to $280 per day.</p>\n    <p>In this role, you will primarily communicate with website visitors using online messaging tools such as Facebook Messenger. The job involves answering live chat messages for various businesses, with no in-person interactions. This is a fully remote position, allowing you to work from anywhere with an internet connection.</p>\n    <p>As a live chat agent, you will be paid to reply to live chat messages on a business's website or social media accounts. This includes answering customer questions, providing sales links, and offering discounts.</p>\n    <h2>Rate: $35 per hour</h2>\n    <h2>Requirements:</h2>\n    <ul>\n      <li>You need to have access to a laptop, phone, or tablet and have a reliable internet connection.</li>\n      <li>You also need to have at least basic English writing skills.</li>\n    </ul>\n    <h2>Skills/background needed:</h2>\n    <p>These are beginner-level live chat jobs, so full training is provided, and you do not need to have done any paid live chat work before.</p>\n    <h2>Location: Remote work online worldwide (United States preferred)</h2>\n    <p>Online chat assistants are in huge demand worldwide right now. So if you can start right away, please apply below.</p>\n    <h2>FAQs About Remote Work:</h2>\n    <h3>Q: What are the benefits of working remotely?</h3>\n    <p>A: Working remotely allows for greater flexibility in your schedule, no commute time, and the ability to work from anywhere with an internet connection.</p>\n    <h3>Q: Do I need to have a specific degree or certification to work remotely?</h3>\n    <p>A: No, most remote positions do not require a specific degree or certification. However, having relevant experience and skills in your field is beneficial.</p>\n    <h3>Q: Will I receive any training for this position?</h3>\n    <p>A: Yes, we provide full training for all new hires.</p>\n    <h3>Q: Do I need to live in a specific time zone to work remotely?</h3>\n    <p>A: No, most remote positions do not require you to live in a specific time zone. However, some positions may require you to work during specific hours.</p>\n    <h2>About Remote Job Forum:</h2>\n    <p>At Remote Job Forum, we specialize in remote and work from home positions. We are committed to helping individuals find rewarding and flexible careers that allow them to work from anywhere. Our goal is to connect talented individuals with remote job opportunities in a variety of industries. We believe that remote work is the future of the workforce and are excited to be a part of this growing movement.</p>\",\n  \"baseSalary\": {\n    \"@type\": \"MonetaryAmount\",\n    \"currency\": \"USD\",\n    \"value\": {\n      \"@type\": \"QuantitativeValue\",\n      \"minValue\": 35,\n      \"maxValue\": 35,\n      \"unitText\": \"HOUR\"\n    }\n  },\n  \"datePosted\": \"2023-04-29\",\n  \"employmentType\": [\n    \"PART_TIME\",\n    \"CONTRACTOR\"\n  ],\n  \"hiringOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Remote Job Forum\",\n    \"sameAs\": \"http://remotejobforum.com\",\n    \"logo\": \"https://i.imgur.com/uw3hELo.png\"\n  },\n  \"jobLocationType\": \"TELECOMMUTE\",\n  \"applicantLocationRequirements\": {\n    \"@type\": \"Country\",\n    \"name\": \"United States\"\n  },\n  \"jobLocation\": {\n    \"@type\": \"Place\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"addressCountry\": \"United States\"\n    }\n  },\n  \"experienceInPlaceOfEducation\": \"False\",\n  \"experienceRequirements\": \"No specific experience requirements\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.imgur.com/uw3hELo.png\"\n  }\n}\n</script>"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@reverseContent)": {
+              ".row": {
+                "flex-direction": "row-reverse"
+              }
+            },
+            "& when (@fullWidth)": {
+              "& when (@imageFullWidth)": {
+                ".container-fluid": {
+                  "padding": "0"
+                },
+                ".text-wrapper": {
+                  "padding": "0 4rem",
+                  "@media (max-width: 768px)": {
+                    "padding": "0 2rem"
+                  }
+                }
+              }
+            },
+            ".image-wrapper": {
+              "@media (max-width: 991px)": {
+                "margin-bottom": "2rem"
+              },
+              "img": {
+                "width": "100%",
+                "object-fit": "cover"
+              }
+            },
+            ".text-wrapper": {
+              "@media (min-width: 992px)": {
+                "padding": "0 2rem",
+                "& when (@fullWidth)": {
+                  "padding": "0 4rem"
+                }
+              },
+              "@media (max-width: 768px)": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#000000"
+            }
+          },
+          "_name": "header14",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\" checked>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background7.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img src=\"@PROJECT_PATH@/assets/images/mbr-1-816x544.jpg\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><b>Customer Support Chat Agent (Remote/No Experience)</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">We are currently seeking highly motivated and reliable individuals who possess excellent communication skills and are proficient in English. As an online chat assistant, you will engage with visitors on websites through online chat and provide exceptional customer service. We are looking for friendly and personable individuals who can handle a high volume of chats and maintain a positive and professional demeanor.<br><br>In this role, you will be responsible for answering live chat messages for various businesses using messaging tools such as Facebook Messenger. As a fully remote position, you can work from anywhere with an internet connection. Successful candidates can earn up to $280 per day.<br><br><b>Responsibilities</b>:<br><br><i>Communicate with website visitors using online messaging tools such as Facebook Messenger.<br>Provide exceptional customer service by answering live chat messages for various businesses.<br>Answer customer questions, provide sales links, and offer discounts.<br>Maintain a positive and professional demeanor while handling a high volume of chats.<br>Meet performance metrics such as response time and customer satisfaction</i>.<br><br><b>Rate</b>:<br><br>The rate for this position is $35 per hour.<br><br><b>Requirements:<br></b><br><i>Access to a laptop, phone, or tablet.<br>Reliable internet connection.<br>Basic English writing skills.<br></i><br><b>Skills/Background Needed:<br></b><br>These are beginner-level live chat jobs, so full training is provided. You do not need to have any paid live chat work experience before. We are looking for individuals who possess:<br><br><i>Excellent communication skills.<br>Strong problem-solving skills.<br>Ability to work in a fast-paced environment.<br>Ability to multitask and prioritize tasks.</i><br><br><b>Location:<br></b><br>This is a remote work position open to applicants worldwide. However, applicants from the United States are preferred.<br><br><b>FAQs About Remote Work:<br></b><br>Q: What are the benefits of working remotely?<br>A: Working remotely allows for greater flexibility in your schedule, no commute time, and the ability to work from anywhere with an internet connection.<br><br>Q: Do I need to have a specific degree or certification to work remotely?<br>A: No, most remote positions do not require a specific degree or certification. However, having relevant experience and skills in your field is beneficial.<br><br>Q: Will I receive any training for this position?<br>A: Yes, we provide full training for all new hires.<br><br>Q: Do I need to live in a specific time zone to work remotely?<br>A: No, most remote positions do not require you to live in a specific time zone. However, some positions may require you to work during specific hours.<br><br><b>About Remote Job Forum:<br></b><br>At Remote Job Forum, we specialize in remote and work from home positions. We are committed to helping individuals find rewarding and flexible careers that allow them to work from anywhere. Our goal is to connect talented individuals with remote job opportunities in a variety of industries. We believe that remote work is the future of the workforce and are excited to be a part of this growing movement.<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://swiy.co/LiveChat\" data-app-placeholder=\"Type Text\">Apply Now &gt;</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tCPEhekvZv",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header14-12"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"#top\" class=\"text-white\">Home</a></li>\n                    \n                    \n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                    \n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-4\" data-app-selector=\".row .mbr-text\">\n                    © Copyright 2023 Remote Job Forum. All Rights Reserved.<br><br>Please note that Remote Job Forum is NOT a recruitment agency. We are not an agent or representative of any employer.<br><br>Marketing Disclosure: This website is a market place. As such you should know that the owner has a monetary connection to the product and services advertised on the site. The owner receives payment whenever a qualified lead is referred.<br>\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "tCPEhf4hT9",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {},
+          "_anchor": "footer3-13"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@sticky)": {
+              ".navbar-dropdown": {
+                "position": "relative !important"
+              },
+              "& when (@transparent)": {
+                ".navbar-dropdown": {
+                  "position": "absolute !important"
+                }
+              }
+            },
+            "& when (@sticky)": {
+              "z-index": "1000",
+              "width": "100%",
+              "& when not (@transparent)": {
+                "position": "relative",
+                "min-height": "60px"
+              },
+              "nav.navbar": {
+                "position": "fixed"
+              }
+            },
+            ".dropdown-item:before": {
+              "font-family": "Moririse2 !important",
+              "content": "\"\\e966\"",
+              "display": "inline-block",
+              "width": "0",
+              "position": "absolute",
+              "left": "1rem",
+              "top": "0.5rem",
+              "margin-right": "0.5rem",
+              "line-height": "1",
+              "font-size": "inherit",
+              "vertical-align": "middle",
+              "text-align": "center",
+              "overflow": "hidden",
+              "transform": "scale(0, 1)",
+              "transition": "all 0.25s ease-in-out"
+            },
+            ".dropdown-menu": {
+              "padding": "0",
+              "border-radius": "4px",
+              "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)"
+            },
+            ".dropdown-item": {
+              "border-bottom": "1px solid #e6e6e6",
+              "&:hover, &:focus": {
+                "background": "@primaryColor !important",
+                "color": "white !important"
+              },
+              "&:first-child": {
+                "border-top-left-radius": "4px",
+                "border-top-right-radius": "4px"
+              },
+              "&:last-child": {
+                "border-bottom": "none",
+                "border-bottom-left-radius": "4px",
+                "border-bottom-right-radius": "4px"
+              }
+            },
+            ".nav-dropdown .link": {
+              "padding": "0 0.3em !important",
+              "margin": "0.667em 1em !important"
+            },
+            ".nav-dropdown .link.dropdown-toggle::after": {
+              "margin-left": "0.5rem",
+              "margin-top": "0.2rem"
+            },
+            ".nav-link": {
+              "position": "relative"
+            },
+            ".container": {
+              "display": "flex",
+              "margin": "auto"
+            },
+            ".iconfont-wrapper": {
+              "color": "@iconsColor !important",
+              "font-size": "1.5rem",
+              "padding-right": "0.5rem"
+            },
+            ".navbar-caption": {},
+            ".navbar-nav": {},
+            ".dropdown-menu, .navbar.opened": {
+              "background": "@menuBgColor !important"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".dropdown .dropdown-menu .dropdown-item": {
+              "width": "auto",
+              "transition": "all 0.25s ease-in-out",
+              "&::after": {
+                "right": "0.5rem"
+              },
+              ".mbr-iconfont": {
+                "margin-right": "0.5rem",
+                "vertical-align": "sub",
+                "&:before": {
+                  "display": "inline-block",
+                  "transform": "scale(1, 1)",
+                  "transition": "all 0.25s ease-in-out"
+                }
+              }
+            },
+            ".collapsed": {
+              ".dropdown-menu .dropdown-item:before": {
+                "display": "none"
+              },
+              ".dropdown .dropdown-menu .dropdown-item": {
+                "padding": "0.235em 1.5em 0.235em 1.5em !important",
+                "transition": "none",
+                "margin": "0 !important"
+              }
+            },
+            ".navbar": {
+              "min-height": "70px",
+              "transition": "all 0.3s",
+              "border-bottom": "1px solid transparent",
+              "&:not(.navbar-short)": {},
+              "& when not (@transparent)": {
+                "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)",
+                "background": "@menuBgColor"
+              },
+              "& when (@transparent)": {
+                "position": "absolute",
+                "background": "rgba(red(@menuBgColor), green(@menuBgColor), blue(@menuBgColor), @opacity)"
+              },
+              "&.opened": {
+                "transition": "all 0.3s"
+              },
+              ".dropdown-item": {
+                "padding": "0.5rem 1.8rem"
+              },
+              ".navbar-logo img": {
+                "width": "auto"
+              },
+              ".navbar-collapse": {
+                "justify-content": "flex-end",
+                "z-index": "1"
+              },
+              "&.collapsed": {
+                "justify-content": "center",
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "41%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "40%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem !important",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "flex-shrink": "initial",
+                  "flex-basis": "auto",
+                  "word-break": "break-word",
+                  "padding-right": "2rem"
+                },
+                ".navbar-toggler": {
+                  "flex-basis": "auto"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "&.navbar-short": {
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "2.5rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "min-height": "60px",
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "min-height": "70px",
+              "flex-shrink": "0",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "10px 0",
+              "transition": "all 0.3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active, .dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center",
+              "min-width": "170px"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all 0.2s",
+              "position": "relative",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all 0.2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all 0.2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              },
+              "&:nth-child(2)": {
+                "transform": "rotate(45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(3)": {
+                "transform": "rotate(-45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": "0 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".icons-menu": {
+              "flex-wrap": "nowrap",
+              "display": "flex",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "padding-right": "1rem",
+              "padding-top": "0.3rem",
+              "text-align": "center"
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".navbar": {
+                "height": "70px",
+                "&.opened": {
+                  "height": "auto"
+                }
+              },
+              ".nav-item .nav-link:hover::before": {
+                "width": "175%",
+                "max-width": "calc(100% ~\"+\" 2rem)",
+                "left": "-1rem"
+              }
+            }
+          },
+          "_name": "menu2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"menu menu2\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3\" max=\"8\" step=\"0.1\" value=\"5.2\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Menu Items\" name=\"showItems\" checked>\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcons\">\n        <select title=\"Amount\" name=\"iconsAmount\" condition=\"showIcons\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Button\" name=\"showButtons\" checked>\n        <header>Styles</header>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\">\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\" checked>\n        <input type=\"range\" title=\"Opacity\" name=\"opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"1\" condition=\"transparent\">\n        <input type=\"color\" title=\"Color\" name=\"menuBgColor\" value=\"#fafafa\">\n        <input type=\"color\" title=\"Hamburger\" name=\"hamburgerColor\" value=\"#000000\">\n    </mbr-parameters>\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                    'navbar-expand-lg':!collapsed,\n                    'collapsed':collapsed}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/remote-job-forum-1-170x96.png\" alt=\"Mobirise Website Builder\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-iconFont\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\"></a></span>\n            </div>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-bs-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems || showIcons || showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\" mbr-if=\"showItems || showIcons || showButtons\">\n                <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\"><a class=\"nav-link link text-black text-primary\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-black text-primary dropdown-toggle\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" data-bs-toggle=\"dropdown\" data-bs-auto-close=\"outside\" aria-expanded=\"false\">Open Jobs</a><div class=\"dropdown-menu\" aria-labelledby=\"dropdown-102\"><a class=\"text-black text-primary dropdown-item\" href=\"remote-live-chat-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Live Chat Assistants - Hiring Now!</a><a class=\"text-black text-primary show dropdown-item\" href=\"chat-forum-moderator-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Moderate Forum Chats ($259 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"walmart-customer-support-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$280 per day - Walmart Customer Support</a><a class=\"text-black text-primary show dropdown-item\" href=\"part-time-live-chat-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$2,000/month Part-Time Live Chat Job</a><a class=\"text-black text-primary show dropdown-item\" href=\"facebook-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Facebook Live Chat Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"live-chat-assistant-280-per-day.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Live Chat Assistant ($280 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"shopify-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Shopify Staff - $280 per Day</a><a class=\"text-black text-primary dropdown-item\" href=\"amazon-chat-assistant-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$296.00 per day - Amazon Chat Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"get-paid-to-talk-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Get Paid to Talk (No Phone Calls: $280 per day)</a><a class=\"text-black text-primary show dropdown-item\" href=\"skype-chat-jobs.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">$280.00 per day: Chat on Skype</a><a class=\"text-black text-primary show dropdown-item\" href=\"youtube-gaming-job.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">YouTube Gaming Channel Virtual Assistant</a><a class=\"text-black text-primary show dropdown-item\" href=\"tik-tok-assistant.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Business TikTok Administrative Assistant</a></div></li></ul>\n                <div class=\"icons-menu\" mbr-if=\"showIcons\">\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-facebook socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-twitter socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-instagram socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-linkedin socicon\"></span>\n                    </a>\n                </div>\n                <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-primary\" href=\"https://swiy.co/LiveChatJobs\" data-app-placeholder=\"Type Text\" target=\"_blank\">Apply Now</a></div>\n            </div>\n        </div>\n    </nav>\n</section>",
+          "_isUserblock": true,
+          "_cid": "tCPEhfEnOA",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu2-14"
         }
       ]
     }
